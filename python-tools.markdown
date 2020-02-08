@@ -3,7 +3,7 @@
 ## Assumptions
 
 1. You are using a POSIX-conforming operating system (some version of UNIX, GNU/Linux, macOS, or Windows Subsystem for Linux on Windows 10).
-1. You are using the Bash shell. If you are not using the Bash shell, you know how to translate shell commands to your shell of choice.
+1. You are using the Bash shell. If you are not using the Bash shell, you know how to translate Bash shell commands to those of your shell of choice.
 1. You understand the basics of Python virtual environments.
 
 ## The Tools
